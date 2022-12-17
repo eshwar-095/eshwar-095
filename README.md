@@ -11,3 +11,4 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshwar-095&label=Profile%20views&color=0e75b6&style=flat" alt="eshwar-095" /> </p>
+<!--<p align="left"> <img src="https://img.shields.io/github/followers/eshwar-095?label=Follow%20Me&style=social" alt="eshwar-095" /> </p>-->
